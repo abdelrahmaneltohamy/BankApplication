@@ -1,0 +1,50 @@
+Name:	ahmed ali
+Address:	13 dokki st
+Phone number:	01018534257
+FCI-001	Savings
+Balance:	2000.000000
+Name:	andrew hana
+Address:	24 shubra st
+Phone number:	01264738294
+FCI-002	Basic
+Balance:	2345.000000
+Name:	ali ali
+Address:	12 mahala st
+Phone number:	01127115071
+FCI-003	Savings
+Balance:	1000.000000
+Name:	fofa
+Address:	12 haram st
+Phone number:	0109764456
+FCI-004	Basic
+Balance:	4000.000000
+Name:	moda
+Address:	13 dokki st giza
+Phone number:	01014240536
+FCI-005	Certificate
+Balance:	59000.000000
+Name:	hamadika belalwan
+Address:	13 Dokki st
+Phone number:	01018940723
+FCI-006	Certificate
+Balance:	420000.000000
+Name:	mimi mimi
+Address:	13 Dokki st
+Phone number:	0101234566
+FCI-007	Basic
+Balance:	7000.000000
+Name:	Randa Hassan
+Address:	13 DDokki st
+Phone number:	010238790
+FCI-008	Basic
+Balance:	1000800.000000
+Name:	adham mohamed
+Address:	12 badrshin st
+Phone number:	0119111111
+FCI-009	Basic
+Balance:	18000.000000
+Name:	mohmed atta
+Address:	giza
+Phone number:	011
+FCI-010	Savings
+Balance:	1700.000000
